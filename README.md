@@ -26,7 +26,7 @@ This was a group project completed with other students. My contribution focused 
 
 ## Files Included
 - `wind-farm-model.xlsx` — Excel model used for the analysis
-- `group-report.pdf` — final group report
+- `group-report.docx` — final group report
 - `task-brief.pdf` — original coursework brief
 
 ## Note
