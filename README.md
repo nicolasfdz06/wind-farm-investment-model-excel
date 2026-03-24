@@ -1,2 +1,2 @@
-# wind-farm-investment-model-excel
+# Wind-Farm-Investment-Model-Excel
 Group Excel modelling project analysing wind farm investment profitability under different scenarios.
