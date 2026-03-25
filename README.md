@@ -25,9 +25,9 @@ This was a group project completed with other students. My contribution focused 
 - Presenting analytical results clearly
 
 ## Files Included
-- `wind-farm-model.xlsx` — Excel model used for the analysis
-- `group-report.docx` — final group report
 - `task-brief.pdf` — original coursework brief
+- `wind-farm-model.xlsx` — Excel model used for the analysis
+- `group-report.pdf` — final group report
 
 ## Note
 This repository is included as part of my academic portfolio. It was completed as group coursework and is not presented as solely my individual work.
